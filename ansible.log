@@ -809,3 +809,17 @@ The offending line appears to be:
     },
     "changed": false
 }
+2023-05-24 00:52:07,167 p=3631 u=ec2-user n=ansible | 3.84.53.206 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    },
+    "changed": false,
+    "ping": "pong"
+}
+2023-05-24 00:52:07,285 p=3631 u=ec2-user n=ansible | 3.239.60.235 | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python"
+    },
+    "changed": false,
+    "ping": "pong"
+}
